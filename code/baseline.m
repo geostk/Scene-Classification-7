@@ -1,0 +1,4 @@
+computeDictionary;
+batchToVisualWords;
+buildRecognitionSystem;
+evaluateRecognitionSystem;
